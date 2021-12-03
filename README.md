@@ -1,2 +1,2 @@
 # artificial-intelligence-assignments
-Programming Assignments I built for my Artificial Intelligence course at my University
+Programming Assignments I built for the Artificial Intelligence course at my University
